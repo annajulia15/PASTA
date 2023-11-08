@@ -1,0 +1,2 @@
+string aFriend = "AnnaJu";
+Console.WriteLine("Hello " + aFriend);

@@ -1,0 +1,8 @@
+A LGPD afeta diretamente os datacenters pois regulamenta o tratamento de dados dos usuários. Ela se extende mesmo para datacenters no exterior que armazenem dados de cidadãos brasileiros.
+Formatos de arquivos abertos são aqueles em que é de livre conhecimento a sua construção, não sendo dependente de nenhuma empresa, o contrário dos formatos de arquivo proprietário. Formatos abertos são vantajosos pois possibilitam um armazenamento seguro e autonomo de dados.
+
+https://campusvirtual.fiocruz.br/portal/guiarea/OpenFormats.html#:~:text=Os%20formatos%20propriet%C3%A1rios%20representam%20a,podem%20ser%20conhecidas%20por%20todos.
+
+https://www.lgpdbrasil.com.br/veja-quais-sao-os-impactos-da-lgpd-para-os-data-centers/
+
+https://odatacolocation.com/blog/lgpd-para-datacenters/#:~:text=Nesse%20sentido%2C%20a%20LGPD%20estabelece,todos%20est%C3%A3o%20sujeitos%20%C3%A0%20regula%C3%A7%C3%A3o.
